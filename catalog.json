@@ -4,7 +4,7 @@
   "repo": "ycherti-neura/media-library-test",
   "branch": "main",
   "base_url": "https://raw.githubusercontent.com/ycherti-neura/media-library-test/main/",
-  "updated": "2026-09-14",
+  "updated": "2026-09-17",
   "maintainer": "Marketing & Communications, Online Marketing",
   "rules": {
     "visibility": "This repository is public. Only images already released externally (website, press kit, social) may be added.",
@@ -46,6 +46,23 @@
       "people": false,
       "partner_branding": null,
       "external_ok": true
+    },
+    {
+      "id": "4ne1-gen35-dishwasher-kitchen",
+      "file": "4NE1 Gen3.5 dishwasher.jpg",
+      "url": "https://raw.githubusercontent.com/ycherti-neura/media-library-test/main/4NE1%20Gen3.5%20dishwasher.jpg",
+      "product": "4NE-1",
+      "description": "4NE-1 Gen 3.5 loading white mugs into an open dishwasher in a sunlit wooden family kitchen, houseplants on the windowsill behind",
+      "keywords": ["humanoid", "Gen 3.5", "kitchen", "dishwasher", "household", "chores", "home", "domestic", "warm light", "wood", "lifestyle"],
+      "orientation": "landscape",
+      "width": 1200,
+      "height": 672,
+      "format": "jpg",
+      "use": ["hero", "context", "home"],
+      "people": false,
+      "partner_branding": null,
+      "external_ok": true,
+      "note": "Shows the Gen 3.5 body design with the NEURA wordmark on the chest"
     },
     {
       "id": "4ne1-machine-tending",
@@ -203,6 +220,23 @@
       "people": true,
       "partner_branding": null,
       "external_ok": true
+    },
+    {
+      "id": "automatica-2025-mav-booth",
+      "file": "Automatica 2025 Photos (1).jpg",
+      "url": "https://raw.githubusercontent.com/ycherti-neura/media-library-test/main/Automatica%202025%20Photos%20%281%29.jpg",
+      "product": "MAV",
+      "description": "NEURA MAV mobile platform carrying a MAiRA arm on a Drees & Sommer payload module at the Automatica 2025 booth, NEURA shipping cartons on a pallet in the foreground and visitors in the background",
+      "keywords": ["MAV", "MAiRA", "mobile platform", "AMR", "automatica", "2025", "trade fair", "booth", "intralogistics", "pallet", "partner"],
+      "orientation": "landscape",
+      "width": 1200,
+      "height": 800,
+      "format": "jpg",
+      "use": ["context", "event", "logistics"],
+      "people": true,
+      "partner_branding": "Drees & Sommer, JP partner banner, third-party AMRs in frame",
+      "external_ok": true,
+      "note": "Several partner logos and identifiable trade-fair visitors; clear with PR before external use"
     },
     {
       "id": "4ne1-automatica-2025-logo-wall",
@@ -396,6 +430,23 @@
       "partner_branding": null,
       "external_ok": true,
       "note": "Confirm the official product name for the quadruped before external use"
+    },
+    {
+      "id": "quadruped-gym-pallet-jump",
+      "file": "Quadruped_training_in_NEURA_Gym.jpg",
+      "url": "https://raw.githubusercontent.com/ycherti-neura/media-library-test/main/Quadruped_training_in_NEURA_Gym.jpg",
+      "product": "Quadruped",
+      "description": "NEURA quadruped robot mid-jump off a stack of wooden pallets in an empty white NEURA Gym hall, legs motion-blurred",
+      "keywords": ["quadruped", "NEURA Gym", "training", "locomotion", "agility", "jump", "pallets", "testing", "white", "motion blur", "minimal"],
+      "orientation": "landscape",
+      "width": 1200,
+      "height": 672,
+      "format": "jpg",
+      "use": ["hero", "technology", "background"],
+      "people": false,
+      "partner_branding": null,
+      "external_ok": true,
+      "note": "Bright empty background, good for text overlay; confirm the official product name for the quadruped before external use"
     }
   ]
 }
